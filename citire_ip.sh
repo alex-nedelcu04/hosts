@@ -1,3 +1,5 @@
+# Irimia David was here on 18-11-2024-17:52!
+
 #!/bin/bash
 
 dns=$1
